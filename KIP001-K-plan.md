@@ -1,9 +1,7 @@
 # K-plan
 K-play global ecological co-builder recruitment plan
 ## I  Introduction
-The K-play global ecological co-builder recruitment plan refers to the first step for K-play to build DAO community autonomy, and it is also an important part of building the K-play metaverse ecological application.The K-play platform accredits the ecological co-builders’ exclusive permission, which can directly enter the K-play metaverse world through the metaverse portal opened by the K-play platform. The ecological co-builders have right to develop various metaverse ecological applications on the platform independently, enrich the underlying ecological construction of the metaverse, obtain benefits and rewards, and enjoy the right to independently distribute the benefits and rewards.
-
-K-play platform has implemented the guarantee fund system in order to standardize the behavior of ecological co-builders. All ecological co-builders of K-play platform need to pay a certain proportion of deposit to the platform as the financial guarantee for their performance of the ecological co-builders’ agreement. Users who apply to become ecological co-builders are deemed to agree to this term.
+The K-play global ecological co-builder recruitment plan refers to the first step for K-play to build DAO community autonomy, and it is also an important part of building the K-play metaverse ecological application.The K-play platform accredits the ecological co-builders’ exclusive permission, which can directly enter the K-play metaverse world through the metaverse portal opened by the K-play platform. The ecological co-builders have right to develop various metaverse ecological applications on the platform independently, enrich the underlying ecological construction of the metaverse, obtain benefits and rewards, and enjoy the right to independently distribute the benefits and rewards. All applications developed by ecological co-builders on the K-play platform need to open all code.
 
 The purpose of this article is to let users know more about the operation mechanism of the K-play global ecological co-builder recruitment plan, so as to help users become K-play’s ecological co-builders smoothly. Users can contact us general.kplay@gmail.com for more information or assistance.
 
@@ -50,7 +48,7 @@ K-play official only supports users to apply as individuals, and official needs 
 Ecological co-builders need the experience of operating active community which is about blockchain, DeFi, metaverse, etc. 
 
 ## VI  Purchase target and purchase time
-Ecological co-builders need to prepare qualification materials and submit to the official. After passing the official K-play pre-qualification, that ecological co-builders can purchase for KPT (K-play platform token). The price of KPT and purchase time refer to official information or contact us general.kplay@gmail.com.
+Ecological co-builders need to prepare qualification materials and submit to the official. After passing the official K-play pre-qualification, that ecological co-builders can purchase for KPT (K-play platform token). About the price of KPT and purchase time, please contact us general.kplay@gmail.com.
 
 ## VII  Purchase requirements
 Ecological co-builders need to provide proof of funds required to fund the budget to avoid unnecessary legal responsibilities. Ideally, K-play officials would not approve co-builders who rely solely on presell or crowdfunding.
@@ -110,4 +108,4 @@ DAO community complaints,
 
 DAO community voting revocation.
 
-##### For more rules, please refer to K-play's official documents on GitHub or contact us general.kplay@gmail.com.
+##### For more rules, please contact us general.kplay@gmail.com.
