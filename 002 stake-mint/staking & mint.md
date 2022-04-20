@@ -1,0 +1,5 @@
+After staking KPT, you will obtain the only circulation medium KUSD in various applications of K-play by minting. When the KPT holder uses K-play (a DApp that interacts with the smart contracts) to stake his KPT as collateral, it will mint to generate KUSD. You can obtain KUSD which is currently supported by 400% stake rate. The stake rate may increase or reduce through community governance mechanism in future. KPT staker will generate debt when minting KUSD. If you need to exit the platform and terminate the agreement (i.e. unlock the KPT), you can destroy the debt by giving KUSD back.
+### staking
+User can stake by transferring KPT in his meta-mask to staking contract, staking contract sets a spec ratio in it, and it will compute user's profit by spec ratio.
+### mint
+If user wants to get KUSD, which can transfer arbitrary quantity KPT in staking contract to the mint contract to build debt, as a response, you will get spec KUSD. The platform uses 400% collateral ratio to compute KUSD, while this ratio can be adjusted by one param.
