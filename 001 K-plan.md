@@ -10,7 +10,7 @@ K-play official will open core code on the Github. The plan aims to invite globa
 
 The K-play global ecological co-builder recruitment plan will officially open in April 2022. The recruitment plan will be carried out in two phases:
 
-1.Before KPT(K-play Platform Token) opens trading pairs on decentralized exchange (DEX), K-play officials will publicly sell quantitative KPT according to plan, and transfer 80% of the fund to liquidity pool, waiting for the buy-back instruction; 20% of the fund are used to create trading pairs to provide KPT trading liquidity. K-play will screen the batch of ecological co-builders which one are able to subscribe for KPT. 
+1.Before KPT(K-play Platform Token) opens trading pairs on decentralized exchange (DEX), K-play officials will publicly sell quantitative KPT according to plan, and transfer 90% of the fund to liquidity pool, waiting for the buy-back instruction; 10% of the fund are used to create trading pairs to provide KPT trading liquidity. K-play will screen the batch of ecological co-builders which one are able to subscribe for KPT. 
 
 2.After KPT opens the trading pairs on the decentralized exchange (DEX), K-play official will continue to recruit ecological co-builders around the world. Please contact us kplan.kplay@gmail.com for more information or assistance.
 
