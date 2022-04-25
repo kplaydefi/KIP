@@ -22,7 +22,7 @@ Sincere invitation:
  
 Join the K-play global ecological co-builder recruitment plan, and participate in the construction of the K-play metaverse ecological application. To become the first batch of ecological co-builders, you can enjoy the rights and rewards of K-play platform.
 
-## IV.  Timeliness and Regionality Of Recruitment Plan
+## IV.  Timeliness and Regionality
 Timeliness: 
 The global ecological co-builder recruitment plan of K-play will last long, until K-play official and the community both agree that a complete metaverse ecology has been built. Whether the recruitment plan continues in the later stage will be decided by the community through voting.
 
