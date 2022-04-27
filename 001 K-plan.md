@@ -38,7 +38,7 @@ Interested co-builders could visit DeGa’s website, which contains instructions
 
 ### Audit Process
  - Read the details about application
- - Make a copy of the 'Audit' file
+ - Make a copy of the `Audit` file
  - Fill it out
  - Discussion and approval would show on Google Doc
 
