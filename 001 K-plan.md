@@ -32,7 +32,7 @@ Individuals, companies or institutions in the world that comply with national la
 ## V.  Application
 Users can apply to become the ecological co-builder by DeGa. DeGa (Decentralized Gaming Alliance) is a democratic, global third-party non-profit organization initiated by volunteers. The early members include K-play team and the ecological co-builders.
 
-DeGa performs functions including review, management, supervision, and punishment of K-plan for K-play. The whole application process is public, so users can trust us. You can follow the announcements on DeGa's official website.
+DeGa performs functions including review, management, supervision, and punishment of K-plan for K-play. The whole application process is public, so users can trust us. You can follow the announcements on [DeGa](https://www.degacon.com/dega/main)'s official website.
 
 Interested co-builders could visit DeGa’s website, which contains instructions on how to submit an application and tracking issues for in-progress applications.
 
