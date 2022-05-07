@@ -34,7 +34,7 @@ Users can apply to become the ecological co-builder by DeGa. DeGa (Decentralized
 
 DeGa performs functions including review, management, supervision, and punishment of K-plan for K-play. The whole application process is public, so users can trust us. You can follow the announcements on [DeGa](https://www.degacon.com/dega/main)'s official website.
 
-Interested co-builders could visit DeGa’s website, which contains instructions on how to submit an application and tracking issues for in-progress applications.
+Interested co-builders could visit the [Template](https://github.com/DeGa-Alliance/Co-builders/blob/main/Template.md), which contains instructions on how to submit an application and tracking issues for in-progress applications.
 
 ### Audit Process
  - Read the details about application
