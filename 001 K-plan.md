@@ -83,8 +83,8 @@ DAO community voting revocation.
 
 ##### For more rules, please contact us kplan.kplay@gmail.com.
 
-##### K-play: https://www.kplay.pro/index      
-##### DeGa: https://www.degacon.com/dega/main
-##### Template: https://github.com/DeGa-Alliance/Co-builders/tree/main
-##### Discord: https://discord.gg/9EyPXVWRJa
-##### E-mail: kplan.kplay@gmail.com
+###### K-play: https://www.kplay.pro/index      
+###### DeGa: https://www.degacon.com/dega/main
+###### Template: https://github.com/DeGa-Alliance/Co-builders/tree/main
+###### Discord: https://discord.gg/9EyPXVWRJa
+###### E-mail: kplan.kplay@gmail.com
